@@ -1,3 +1,3 @@
-module example.com/quiz
+module github.com/SebstainOnGitHub/quiz
 
 go 1.22.5
