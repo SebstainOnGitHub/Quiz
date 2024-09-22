@@ -1,3 +1,3 @@
-module github.com/SebstainOnGitHub/quiz
+module github.com/sebstainsgit/quiz
 
 go 1.22.5
